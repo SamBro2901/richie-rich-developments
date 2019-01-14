@@ -1,4 +1,4 @@
-const Discord = require("discord.js");
+oof Discord = require("discord.js");
 const fs = require("fs");
 
 module.exports.errors = (message, command) => {
@@ -12,4 +12,3 @@ module.exports.errors = (message, command) => {
     .setColor("#ef5350");
     message.reply(errorEmbed);
 
-}
