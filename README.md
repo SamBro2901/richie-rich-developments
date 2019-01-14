@@ -10,5 +10,5 @@ The main vision of the bot is to provide something fresh to the community and ke
 We hope to grow this amazing community of gamers on Discord and want to introduce something fresh for the community to enjoy and stay part of.
 
 # ChangeLogs
-14/01/2019 - **v0.1.2**:
+14/01/2019 - **v0.1.2**:     
 Updated bot with the latest and greatest "!shop" command to buy pickaxes from a predesigned shop *(More pickaxes to come soon!)*.
