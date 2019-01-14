@@ -1,0 +1,23 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "A custom bot for the server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SamBro"
+  ],
+  "author": "SamBro",
+  "license": "ISC",
+  "dependencies": {
+    "dblapi.js": "^2.3.0",
+    "discord.js": "^11.4.2",
+    "enmap": "^4.3.0",
+    "mongoose": "^5.4.1",
+    "ms": "^2.1.1",
+    "superagent": "^4.0.0-beta.5"
+  },
+  "devDependencies": {}
+}
